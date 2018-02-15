@@ -1,0 +1,9 @@
+INSERT INTO user (id, username, password) VALUES (1, 'rafal1', '12345');
+INSERT INTO user (id, username, password) VALUES (2, 'rafal2', '12345');
+INSERT INTO user (id, username, password) VALUES (3, 'rafal3', '12345');
+INSERT INTO user (id, username, password) VALUES (4, 'rafal4', '12345');
+INSERT INTO user (id, username, password) VALUES (5, 'rafal5', '12345');
+INSERT INTO user (id, username, password) VALUES (6, 'rafal6', '12345');
+INSERT INTO user (id, username, password) VALUES (7, 'rafal7', '12345');
+INSERT INTO user (id, username, password) VALUES (8, 'rafal8', '12345');
+INSERT INTO user (id, username, password) VALUES (9, 'rafal9', '12345');
